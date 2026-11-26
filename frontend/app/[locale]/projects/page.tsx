@@ -236,7 +236,7 @@ export default function ProjectsPage() {
                 <thead className="bg-surface-raised/40 border-b border-border text-secondary">
                   <tr>
                     <th className="py-4 px-6">{tProjects("colName")}</th>
-                    <th className="py-4 px-6">{tProjects("labelTariff")}</th>
+                    <th className="py-4 px-6">{tProjects("labelAtcCode")}</th>
                     <th className="py-4 px-6">{tProjects("labelProductType")}</th>
                     <th className="py-4 px-6">{tProjects("labelDate")}</th>
                     <th className="py-4 px-6">{tProjects("labelManufacturer")}</th>

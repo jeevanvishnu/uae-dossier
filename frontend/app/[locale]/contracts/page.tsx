@@ -55,7 +55,7 @@ export default function ContractsPage() {
       startDate: "2023-01-01",
       endDate: "2023-12-31",
       status: "Expired Terms",
-      parties: "KazPharma Group / MOSCTD Digital",
+      parties: "UAE Pharma Group / MOSCTD Digital",
     },
   ]);
 

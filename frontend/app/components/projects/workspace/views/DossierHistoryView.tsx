@@ -40,7 +40,7 @@ export const DossierHistoryView: React.FC<DossierHistoryViewProps> = ({ projectI
       userCredentials: "Dr. Alikhan Saparov",
       userId: "USR-902",
       status: "SUCCESS",
-      resultLog: "SUCCESS: Metadata fields updated and dossier configuration locked for Kazakhstan.",
+      resultLog: "SUCCESS: Metadata fields updated and dossier configuration locked for UAE.",
     },
     {
       id: "log-2",

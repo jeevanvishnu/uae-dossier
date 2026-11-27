@@ -38,7 +38,7 @@ export default function StartPage() {
                 {tNav("portal")}
               </span>
               <span className="text-[10px] text-muted font-semibold uppercase tracking-wider">
-                Kazakhstan Regulatory Dossier
+                UAE Regulatory Dossier
               </span>
             </div>
           </Link>
@@ -85,7 +85,7 @@ export default function StartPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-accent/10 border border-accent/25 text-accent text-xs font-semibold mb-6">
             <Sparkle size={14} />
-            <span>Official Kazakhstan Medical & Regulatory Submission Portal</span>
+            <span>Official UAE Medical & Regulatory Submission Portal</span>
           </div>
 
           <h1 className="font-lexend text-3xl sm:text-4xl md:text-5xl font-extrabold text-primary tracking-tight leading-tight mb-6">

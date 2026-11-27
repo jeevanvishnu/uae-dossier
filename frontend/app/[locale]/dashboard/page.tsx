@@ -69,7 +69,7 @@ export default function DashboardPage() {
       titleDefault: "Tax-Regime Classification Notice (2026-Q3)",
       contentKey: "taxAlertBody",
       contentDefault:
-        "Official announcement: Value-added tax exemptions for Kazakhstan electronic regulatory submission services have been updated under Tax Code Clause 394.",
+        "Official announcement: Value-added tax exemptions for UAE electronic regulatory submission services have been updated under Tax Code Clause 394.",
       date: "2026-09-10 09:30 AM",
       category: "Tax & Legal",
     },
@@ -79,7 +79,7 @@ export default function DashboardPage() {
       titleDefault: "eCTD Validation Engine Upgrade v4.2",
       contentKey: "contractAlertBody",
       contentDefault:
-        "Module 1 XML validation rules for Concerned Member State (CMS) sequences updated to strictly align with Astana Ministry of Health guidelines.",
+        "Module 1 XML validation rules for Concerned Member State (CMS) sequences updated to strictly align with UAE Ministry of Health guidelines.",
       date: "2026-09-08 14:15 PM",
       category: "System Update",
     },

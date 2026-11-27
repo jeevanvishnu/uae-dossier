@@ -6,6 +6,7 @@ const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
 const nextConfig: NextConfig = {
   allowedDevOrigins: ["192.168.1.3", "localhost"],
   images: {
+    qualities: [100, 75],
     remotePatterns: [
       {
         protocol: "https",

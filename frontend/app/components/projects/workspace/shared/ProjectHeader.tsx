@@ -31,7 +31,7 @@ export const ProjectHeader: React.FC<ProjectHeaderProps> = ({
             </h1>
           </div>
           <p className="text-xs md:text-sm text-muted font-medium">
-            External spray 2% • Medical Union Pharmaceuticals • Kazakhstan Submission
+            External spray 2% • Medical Union Pharmaceuticals • UAE Submission
           </p>
         </div>
       </div>

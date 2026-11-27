@@ -5,10 +5,10 @@ import { CheckCircle, CaretRight } from "@phosphor-icons/react";
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 
-export type CurrencyCode = "KZT" | "USD" | "EUR";
+export type CurrencyCode = "AED" | "USD" | "EUR";
 
 const currencyOptions: { code: CurrencyCode; symbol: string }[] = [
-  { code: "KZT", symbol: "₸" },
+  { code: "AED", symbol: "AED" },
   { code: "USD", symbol: "$" },
   { code: "EUR", symbol: "€" },
 ];
@@ -28,7 +28,7 @@ export function PricingSection() {
       prices: {
         USD: { monthly: "$290", annual: "$230" },
         EUR: { monthly: "€270", annual: "€210" },
-        KZT: { monthly: "₸145,000", annual: "₸115,000" },
+        AED: { monthly: "AED 1,065", annual: "AED 845" },
       },
       badge: undefined,
       features: [
@@ -46,7 +46,7 @@ export function PricingSection() {
       prices: {
         USD: { monthly: "$590", annual: "$470" },
         EUR: { monthly: "€540", annual: "€430" },
-        KZT: { monthly: "₸295,000", annual: "₸235,000" },
+        AED: { monthly: "AED 2,165", annual: "AED 1,725" },
       },
       badge: "Most Popular",
       features: [
@@ -64,7 +64,7 @@ export function PricingSection() {
       prices: {
         USD: { monthly: "$1,190", annual: "$950" },
         EUR: { monthly: "€1,090", annual: "€870" },
-        KZT: { monthly: "₸595,000", annual: "₸475,000" },
+        AED: { monthly: "AED 4,370", annual: "AED 3,490" },
       },
       badge: undefined,
       features: [
@@ -82,7 +82,7 @@ export function PricingSection() {
       prices: {
         USD: { monthly: "$2,290", annual: "$1,830" },
         EUR: { monthly: "€2,100", annual: "€1,680" },
-        KZT: { monthly: "₸1,145,000", annual: "₸915,000" },
+        AED: { monthly: "AED 8,410", annual: "AED 6,715" },
       },
       badge: undefined,
       features: [

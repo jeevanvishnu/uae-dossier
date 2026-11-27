@@ -25,7 +25,7 @@ export function ProcessSection() {
       rawTitle: tProc("step1Title"),
       description: tProc("step1Desc"),
       icon: <Folders size={24} weight="fill" className="text-[#0F2D5E]" />,
-      deliverable: "ICH / EAEU Module 1 Spec Initialized",
+      deliverable: "ICH / UAE MOHAP Module 1 Spec Initialized",
       standard: "XML DTD 4.0 & 3.2.2"
     },
     {

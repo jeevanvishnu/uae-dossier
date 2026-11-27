@@ -55,12 +55,13 @@ export default function Home() {
         >
           {/* Background Graphic Asset — positioned absolute filling entire section */}
           <Image
-            src="/images/hero-bg-hd.webp"
+            src="/images/uea-home.png"
             alt="MOSCTD eCTD Dossier & XML Submission Platform"
             fill
             priority
             sizes="100vw"
             quality={100}
+            unoptimized
             className="absolute inset-0 object-cover object-right"
           />
 

@@ -119,10 +119,10 @@ export default function AccountSettingsPage() {
   });
 
   const [companyData, setCompanyData] = useState({
-    legalAddress: "14 Dostyk Ave, Medeu District, Almaty 050010, Kazakhstan",
-    officialEmail: "compliance@pharma.kz",
-    additionalAddress: "28 Mangilik El Ave, Astana 010000, Kazakhstan",
-    corporatePhone: "+7 (7172) 79-88-00",
+    legalAddress: "Sheikh Zayed Road, Trade Centre 2, Dubai, UAE",
+    officialEmail: "compliance@pharma.ae",
+    additionalAddress: "Al Maryah Island, Abu Dhabi Global Market, Abu Dhabi, UAE",
+    corporatePhone: "+971 4 300 8800",
   });
 
   // Current logged in user profile display data
